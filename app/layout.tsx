@@ -8,8 +8,8 @@ import Footer from '@/components/layout/footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'ChallanEase - Simplifying Traffic Challan Management',
-  description: 'Streamline your traffic challan processing with ChallanEase. Pay, dispute, and track challans all in one place.',
+  title: 'Easy-Challan.com - Simplifying Traffic Challan Management',
+  description: 'Streamline your traffic challan processing with Easy-Challan.com. Pay, dispute, and track challans all in one place.',
 };
 
 export default function RootLayout({

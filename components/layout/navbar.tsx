@@ -45,7 +45,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center">
               <span className="text-2xl font-bold bg-gradient-to-r from-blue-700 to-teal-500 bg-clip-text text-transparent">
-                ChallanEase
+                Easy-Challan.com
               </span>
             </Link>
           </div>

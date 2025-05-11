@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <Link href="/" className="inline-block mb-6">
               <span className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-teal-300 bg-clip-text text-transparent">
-                ChallanEase
+                Easy-Challan.com
               </span>
             </Link>
             <p className="text-gray-400 mb-6">
@@ -106,7 +106,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              &copy; {new Date().getFullYear()} ChallanEase. All rights reserved.
+              &copy; {new Date().getFullYear()} Easy-Challan.com. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <Link href="#" className="text-gray-400 hover:text-white text-sm">

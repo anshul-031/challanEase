@@ -17,7 +17,7 @@ const faqs = [
   {
     question: 'What happens if I want to dispute a challan?',
     answer:
-      "ChallanEase provides a streamlined dispute management system. You can submit a dispute request along with supporting evidence through our platform. Our team will review your case and coordinate with the relevant traffic authorities. You\'ll receive regular updates on the status of your dispute through your preferred notification method.",
+      "Easy-Challan.com provides a streamlined dispute management system. You can submit a dispute request along with supporting evidence through our platform. Our team will review your case and coordinate with the relevant traffic authorities. You\'ll receive regular updates on the status of your dispute through your preferred notification method.",
   },
   {
     question: 'Can I manage challans for multiple vehicles?',

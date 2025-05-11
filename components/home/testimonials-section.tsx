@@ -14,7 +14,7 @@ const testimonials = [
     role: 'Individual User',
     avatar: 'https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg',
     content:
-      'ChallanEase helped me clear all my pending challans in just a few clicks. The notifications feature ensures I never miss a payment deadline. Highly recommended!',
+      'Easy-Challan.com helped me clear all my pending challans in just a few clicks. The notifications feature ensures I never miss a payment deadline. Highly recommended!',
     rating: 5,
   },
   {
@@ -23,7 +23,7 @@ const testimonials = [
     role: 'Fleet Manager',
     avatar: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg',
     content:
-      'Managing challans for our company fleet of 50 vehicles used to be a nightmare. With ChallanEase, I can now handle everything from a single dashboard, saving us hours every week.',
+      'Managing challans for our company fleet of 50 vehicles used to be a nightmare. With Easy-Challan.com, I can now handle everything from a single dashboard, saving us hours every week.',
     rating: 5,
   },
   {
@@ -110,7 +110,7 @@ export default function TestimonialsSection() {
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-4">What Our Users Say</h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Thousands of individuals and businesses trust ChallanEase for their traffic challan management needs.
+            Thousands of individuals and businesses trust Easy-Challan.com for their traffic challan management needs.
           </p>
         </motion.div>
 

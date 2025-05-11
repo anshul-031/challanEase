@@ -90,7 +90,7 @@ export default function HeroSection() {
             </form>
 
             <p className="text-sm text-gray-500 dark:text-gray-400">
-              Join over 10,000+ users who trust ChallanEase for their traffic challan management.
+              Join over 10,000+ users who trust Easy-Challan.com for their traffic challan management.
             </p>
           </motion.div>
 

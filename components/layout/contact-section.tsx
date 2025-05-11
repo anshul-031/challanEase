@@ -72,7 +72,7 @@ export default function ContactSection() {
     {
       icon: Mail,
       title: 'Email Address',
-      details: ['support@challanease.com', 'info@challanease.com'],
+      details: ['support@easy-challan.com', 'info@easy-challan.com'],
     },
     {
       icon: Clock,
@@ -204,7 +204,7 @@ export default function ContactSection() {
                           <FormItem>
                             <FormLabel>Email Address</FormLabel>
                             <FormControl>
-                              <Input placeholder="john@example.com" type="email" {...field} />
+                              <Input placeholder="john@easy-challan.com" type="email" {...field} />
                             </FormControl>
                             <FormMessage />
                           </FormItem>
